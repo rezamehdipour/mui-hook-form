@@ -1,0 +1,11 @@
+body {
+	padding-top: 1rem;
+}
+
+.MuiTextField-root {
+	label {
+		left: unset;
+		right: 0;
+		transform-origin: top right;
+	}
+}
